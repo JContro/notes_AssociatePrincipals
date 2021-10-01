@@ -2,6 +2,8 @@
 
 ## Description
 
+## Examples
+
 ## Use case
 
 ## Equipment
