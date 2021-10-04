@@ -16,9 +16,9 @@
 ## Outcomes
 
 ## Personal Todos
-[] go through One-stop shop sharepoint and identify what can be moved to AzDO Wiki
-[] Study Mark's collaterals - Jira extracts, Guidance docs, Q&A, Glossary, etc.
-[] Clearly define the pain we are addressing with the PoC
+- go through One-stop shop sharepoint and identify what can be moved to AzDO Wiki
+- Study Mark's collaterals - Jira extracts, Guidance docs, Q&A, Glossary, etc.
+- Clearly define the pain we are addressing with the PoC
 
 
 #### tags
