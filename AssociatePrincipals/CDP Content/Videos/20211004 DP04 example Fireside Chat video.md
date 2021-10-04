@@ -16,5 +16,7 @@ One is asking questions, another is replying.
 	- two questions that you'd be able to answer if asked - not too scripted. Give us the questions, we will ask the . energetic, informal, useful.
 
 
+what to avoid when using X
+
 
 #video #content 
