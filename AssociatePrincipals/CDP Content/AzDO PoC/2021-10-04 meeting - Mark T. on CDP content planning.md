@@ -3,9 +3,9 @@
 ## 2021-10-04 13:15
 
 ## People
-- Mark Thacker
-- Maria Robson
-- Elmira Ahmedova
+- [[Mark Thacker]]
+- [[Maria Robson]]
+- [[Elmira Ahmedova]]
 
 ## Notes
 - Mark has built an attempt for single source fo truth for CDP content delivery info on sharepoint [Kubrick CDP Programme - Home (sharepoint.com)](https://kubrickgroup.sharepoint.com/sites/KubrickCDPProgramme)
