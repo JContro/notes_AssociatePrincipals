@@ -65,7 +65,7 @@ THESE ARE ALL IMPORTANT AND NONE SHOULD BE SKIPPED -  READ ALL
 	- Visual pop ups that help the listener understand what the speaker is talking about (post prod edits)
 - When reading off notes - have the notes on the screen so that you don't look away from the webca,
 - Find a balance between a nice informal chat at the start, but avoid pinning the video at a given time/ associated roles
-- Bring great energyand enthusiasm for the subject
+- Bring great energy and enthusiasm for the subject
 - Bring a good example on why knowing this *thing* is useful and relevant
 - Great to have a final summary at the end from the interviewer on what was learned in this chat
 - Add time codes (post prod) to help people navigate easily the content, particularly important on longer videos
