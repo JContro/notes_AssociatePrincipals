@@ -19,7 +19,7 @@
 	- .training
 	- .consulting
 		- migrate the CDP dev from AAD to .cloud
-		- space for datalab to go to when moving this around -> trainers are logging in to the AAD to see the Dev backlog
+		- space for datalab to go to when moving this around -> trainers are logging in to the AAD to see the CDP Dev backlog
 			- all the items will be lift and shifted
 		- Work item numbers are recycled when you create a new instance -> things when moved, are moved relative to one each other. Items may get a new number, but solvable
 			- Martin confirmed that e.g. 2 projects with 2 separate boards are able to be linked -> possible to link work items -> good for Emma and Rebecca
