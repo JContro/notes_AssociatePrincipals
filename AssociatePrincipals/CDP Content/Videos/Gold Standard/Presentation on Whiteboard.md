@@ -18,7 +18,12 @@ camera mic lights
 plexiglass + pens
 studio
 
+### 
+
+
 First made: 2021-10-07 20:36
+
+
 
 ### Tags
 #video #content 

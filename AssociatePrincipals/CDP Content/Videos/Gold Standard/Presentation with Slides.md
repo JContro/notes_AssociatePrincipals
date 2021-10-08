@@ -11,8 +11,16 @@ The presenter is in front of a green screen and is reading off the slides. The e
 
 
 ## Examples
-https://www.coursera.org/learn/golang-getting-started/lecture/shQW1/m1-1-2-objects 
-- This guy is great, but could be a little less static (he's standing with his arms down)
+
+- Old example
+	https://www.coursera.org/learn/golang-getting-started/lecture/shQW1/m1-1-2-objects 
+	- This guy is great, but could be a little less static (he's standing with his arms down)
+- New one
+	- [https://www.youtube.com/watch?v=Hu4Yvq-g7_Y](https://www.youtube.com/watch?v=Hu4Yvq-g7_Y "https://www.youtube.com/watch?v=hu4yvq-g7_y")
+	Now this is actually more dynamic than the speaker on the slides and can be edited in a more fluid way
+	
+
+
 
 ## Use case
 Introducing courses, modules etc
@@ -23,6 +31,10 @@ camera
 lights
 mircofone
 studio
+
+## Example
+
+Data privacy
 
 
 First made: 2021-10-05 16:42
