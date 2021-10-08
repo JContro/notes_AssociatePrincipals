@@ -3,10 +3,10 @@
 ## 2021-10-07 10:57
 
 ## People
-- Rebecca Tomlinson
-- Jack Contro
-- Maria Robson
-- Elmira Ahmedova
+- [[Rebecca Tomlinson]]
+- [[Jack Contro]]
+- [[Maria Robson]]
+- [[Elmira Ahmedova]]
 
 ## Notes
 ### Various types of video and support for trainers

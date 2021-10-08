@@ -3,10 +3,10 @@
 ## 2021-10-07 13:42
 
 ## People
-- Martin Palmer
-- Rik Watson
-- Maria Robson
-- Elmira Ahmedova
+- [[Martin Palmer]]
+- [[Rik Watson]]
+- [[Maria Robson]]
+- [[Elmira Ahmedova]]
 
 ## Notes
 

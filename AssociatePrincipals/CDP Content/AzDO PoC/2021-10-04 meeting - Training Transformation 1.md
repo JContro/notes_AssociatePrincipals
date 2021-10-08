@@ -3,10 +3,10 @@
 ## 2021-10-04 15:05
 
 ## People
-- Rebecca Tomlinson
-- Lawrence Freeman
-- Maria Robson
-- Elmira Ahmedova
+- [[Rebecca Tomlinson]]
+- [[Lawrence Freeman]]
+- [[Maria Robson]]
+- [[Elmira Ahmedova]]
 
 
 ## Make trainers not feel lost <3
