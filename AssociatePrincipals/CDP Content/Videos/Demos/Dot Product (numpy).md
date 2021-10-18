@@ -19,13 +19,21 @@ computer with jupyter notebook on it
 ## Script points
 
 - The speaker introduces what we are going to be doing. 
+- Why do we care about knowing what a dot product is? 
+	- See two physics points in jupyter notebook or come up with another relevant use case!
+- Explain what the dot product of 1d vectors is -> we will add some pop up maths in the video while you talk to the camera to make it clear
 - Explains that we already know what jupyter notebooks are (referencing that this is not the first video of the course)
-- Pip installs the numpy library 
-- Creates two arrays 
+- Pip installs the numpy library (be in a virtualenv please) 
+- Create two sample arrays 
 - Performs the dot product on them
+- Show the pure math calculation
+	- Explain how more convenient it is to use a library sucha s numpy cos you don't have to write out the code yourself
 - Summary
 
-The video should be very brief and it's purpose is just to demonstrate a style of video
-A jupyter notebook will be provided to reproduce in the video
+### Extra info
+- The video should be very brief and it's purpose is just to demonstrate a style of video
+- The presenter should be super engaging and enthusiastic about the topic
+- No reading from a script - it really ruins the presentation. Can use bullet points at best
+- A jupyter notebook will be provided to reproduce in the video
 
 

@@ -17,7 +17,7 @@ screen with powerpoint presentation
 
 ## Script points
 
-The speaker introduces the conecpt of GDPR, what it is and what is Personal Data
+The speaker introduces the concept of GDPR, what it is and what is Personal Data
 
 The video doesn't need to be long at all and is based on Simon Duncan's slides 
 
