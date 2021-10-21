@@ -5,6 +5,7 @@
 ***
 
 ## Speakers
+Henry 
 
 ## Creative team members
 [[Jacob Zatorski]]
@@ -36,4 +37,15 @@ computer with jupyter notebook on it
 - No reading from a script - it really ruins the presentation. Can use bullet points at best
 - A jupyter notebook will be provided to reproduce in the video
 
+## Good points
 
+- Great video quality
+- Fantastic sound
+- Great speaker - confident and really engaging
+- Really love the bubble at the bottom of the screen 
+- Fantastic outro
+
+## To be improved
+
+- Sometimes the wording is inaccurate, QA process from trainers will find these out
+- The pop ups on screen are incorrect mathematically - these need to be designed and QAd from the trainers
